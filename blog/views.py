@@ -7,5 +7,5 @@ def starting_page(request):
 def posts(request):
     pass
 
-def post_detail(request):
+def post_detail(request, slug):
     pass
